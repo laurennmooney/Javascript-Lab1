@@ -2,7 +2,7 @@ let name = "Lauren Mooney";
 let age = 26;
 let birthday = "February 2";
 let detroitGC = true;
-let lifeEvents = ["I grew up in Lincoln Park, MI.", "I graduated from UDM with a BS in biology.","I attended Chris Cornell's last show in Detroit.","My PR on the leg press is 320 lbs." ];
+let lifeEvents = ["I grew up in Lincoln Park, MI.", "I graduated from UDM with a BS in biology.","I used to work as a medical scribe.","I have hit a personal record of 320 lbs on the leg press." ];
 
 
 // if/else
@@ -18,7 +18,7 @@ for (let i = 0; i < lifeEvents.length; i++) {
 }
 
 // random number
-let randomNumber = Math.floor(Math.random() * 10);
+let randomNumber = Math.floor(Math.random() * 11);
 
 //counter 
 let counter = 0;
